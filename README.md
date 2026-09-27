@@ -5,7 +5,7 @@
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/github/license/PyModel/jev-skill?style=flat-square" alt="License: MIT"></a>
   <a href=".github/workflows/checks.yml"><img src="https://img.shields.io/github/actions/workflow/status/PyModel/jev-skill/checks.yml?label=checks&style=flat-square" alt="Checks"></a>
-  <img src="https://img.shields.io/badge/version-0.1.0-0891b2?style=flat-square" alt="Version 0.1.0">
+  <a href="https://github.com/PyModel/jev-skill/releases/latest"><img src="https://img.shields.io/github/v/release/PyModel/jev-skill?style=flat-square&color=0891b2" alt="Latest release"></a>
   <a href="https://github.com/PyModel/jev-skill/stargazers"><img src="https://img.shields.io/github/stars/PyModel/jev-skill?style=flat-square" alt="Stars"></a>
   <img src="https://img.shields.io/badge/evals-0.96%20%C2%B1%200.02-b45309?style=flat-square" alt="Average score over six tasks: 0.96 ± 0.02">
   <a href="https://docs.typesafe.ai"><img src="https://img.shields.io/badge/docs-docs.typesafe.ai-075985?style=flat-square" alt="Jev documentation"></a>
