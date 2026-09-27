@@ -1,0 +1,24 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "jev",
+  "description": "Unofficial skill for TypeSafe AI's Jev: typed decisions, calibrated confidence, and eleven implementation shapes, each with a code sketch.",
+  "owner": {
+    "name": "elkaix",
+    "url": "https://github.com/elkaix"
+  },
+  "plugins": [
+    {
+      "name": "jev",
+      "description": "Teaches Claude the Jev API, when to use Choice, Score, or Noul, how to route on confidence, and which implementation shape fits a design before building it.",
+      "source": "./",
+      "category": "development",
+      "keywords": [
+        "typesafe",
+        "jev",
+        "system-one",
+        "classification",
+        "structured-output"
+      ]
+    }
+  ]
+}

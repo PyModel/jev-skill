@@ -1,0 +1,20 @@
+{
+  "name": "jev",
+  "version": "0.1.0",
+  "description": "Unofficial Claude Code skill for TypeSafe AI's Jev: the typed Choice/Score/Noul API, calibrated-confidence routing, field-tested anti-patterns, and eleven implementation shapes, each with a code sketch.",
+  "author": {
+    "name": "elkaix",
+    "url": "https://github.com/elkaix"
+  },
+  "homepage": "https://github.com/PyModel/jev-skill",
+  "repository": "https://github.com/PyModel/jev-skill",
+  "license": "MIT",
+  "keywords": [
+    "typesafe",
+    "jev",
+    "system-one",
+    "classification",
+    "structured-output",
+    "agent-skill"
+  ]
+}
