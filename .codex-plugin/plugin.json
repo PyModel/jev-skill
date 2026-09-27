@@ -1,0 +1,38 @@
+{
+  "name": "jev",
+  "version": "0.1.0",
+  "description": "Unofficial Codex skill for TypeSafe AI's Jev: the typed Choice/Score/Noul API, calibrated-confidence routing, field-tested anti-patterns, and eleven implementation shapes, each with a code sketch.",
+  "author": {
+    "name": "elkaix",
+    "url": "https://github.com/elkaix"
+  },
+  "homepage": "https://github.com/PyModel/jev-skill",
+  "repository": "https://github.com/PyModel/jev-skill",
+  "license": "MIT",
+  "keywords": [
+    "typesafe",
+    "jev",
+    "system-one",
+    "classification",
+    "structured-output",
+    "codex"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Jev skill",
+    "shortDescription": "Typed decisions with calibrated confidence",
+    "longDescription": "Write correct TypeSafe Jev integrations: pick Choice, Score, or Noul; batch speculative questions in one call; route on calibrated confidence; avoid the known failure modes; and design from eleven implementation shapes, each with a code sketch, before building something new.",
+    "developerName": "elkaix",
+    "category": "Coding",
+    "capabilities": [
+      "Instructions"
+    ],
+    "websiteURL": "https://github.com/PyModel/jev-skill",
+    "defaultPrompt": [
+      "Use $jev to replace this LLM classification call with Jev.",
+      "Find the right implementation shape for a Jev-powered design before we build it.",
+      "Review this Jev integration against the skill's rules."
+    ],
+    "brandColor": "#2DDAFB"
+  }
+}
