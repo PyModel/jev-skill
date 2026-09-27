@@ -1,0 +1,6 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "jev",
+  "version": "0.1.0",
+  "description": "Unofficial skill for TypeSafe AI's Jev: typed Choice/Score/Noul decisions, calibrated-confidence routing, and eleven implementation shapes, each with a code sketch."
+}
